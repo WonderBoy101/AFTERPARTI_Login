@@ -23,6 +23,7 @@ namespace Login_Practice_Template
             SaveNewUser(Program.allusersFile);
 
             Console.WriteLine("Would you like to add another user");
+
             do
             {
                 string answer = Console.ReadLine();
@@ -30,6 +31,7 @@ namespace Login_Practice_Template
                 {
                     Console.WriteLine("GLITCH");
                     EstablishNewUser();
+                    addanotherUser = false;
                 }
 
                 else if (answer == "No" || answer == "no")
