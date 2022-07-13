@@ -1,0 +1,13 @@
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/obj/Debug/netcoreapp3.1/Login_Practice_Template.csproj.AssemblyReference.cache
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/obj/Debug/netcoreapp3.1/Login_Practice_Template.GeneratedMSBuildEditorConfig.editorconfig
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/obj/Debug/netcoreapp3.1/Login_Practice_Template.AssemblyInfoInputs.cache
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/obj/Debug/netcoreapp3.1/Login_Practice_Template.AssemblyInfo.cs
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/obj/Debug/netcoreapp3.1/Login_Practice_Template.csproj.CoreCompileInputs.cache
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/bin/Debug/netcoreapp3.1/Login_Practice_Template.deps.json
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/bin/Debug/netcoreapp3.1/Login_Practice_Template.runtimeconfig.json
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/bin/Debug/netcoreapp3.1/Login_Practice_Template.runtimeconfig.dev.json
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/bin/Debug/netcoreapp3.1/Login_Practice_Template.dll
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/bin/Debug/netcoreapp3.1/Login_Practice_Template.pdb
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/obj/Debug/netcoreapp3.1/Login_Practice_Template.dll
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/obj/Debug/netcoreapp3.1/Login_Practice_Template.pdb
+/Users/David1/Downloads/Projects/Coding/AFTERPARTI/AFTERPARTI_Login/Login_Practice_Template/Login_Practice_Template/obj/Debug/netcoreapp3.1/Login_Practice_Template.genruntimeconfig.cache
